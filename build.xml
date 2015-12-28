@@ -8,6 +8,6 @@
         <javac includeantruntime="false" srcdir="src" destdir="build/classes"/>
     </target>
     <target name="run" depends="compile">
-        <java fork="true" failonerror="yes" classpath="build/classes" classname="First"/>
+        <java fork="true" failonerror="yes" classpath="build/classes" classname="Main"/>
     </target>
 </project>
