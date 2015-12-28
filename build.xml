@@ -2,5 +2,6 @@
 <project default="clean">
     <target name="clean">
         <delete dir="./build/classes"/>
+        <delete dir="./build"/>
     </target>
 </project>
