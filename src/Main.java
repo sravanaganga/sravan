@@ -8,6 +8,6 @@ public class Main
   public static void main(String args[])
 	{
 		System.out.println("Sravan Jenkins Project");
-		Main object=new Main();
+		First fObject=new First();
 	}
  }
