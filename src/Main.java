@@ -2,7 +2,6 @@ import java.lang.*;
 
 public class Main 
  {
- public void Main()
  {
  	System.out.println("This is an object created by the constructor");
  }
