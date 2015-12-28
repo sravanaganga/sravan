@@ -12,4 +12,5 @@
     <target name="run" depends="compile">
         <java fork="true" failonerror="yes" classpath="./build/classes" classname="Main"/>
     </target>
+    echo "Sravan"
 </project>
