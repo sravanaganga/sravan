@@ -7,6 +7,6 @@
     <target name="compile" depends="clean">
         <mkdir dir="./build"/>
         <mkdir dir="./build/classes"/>
-        <javac srcdir="./src" destdir"./build/classes"/>
+        <javac srcdir="./src" destdir="./build/classes"/>
     </target>
 </project>
