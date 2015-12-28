@@ -1,6 +1,6 @@
 import java.lang.*;
 
-public class First
+public class Third
 {
   public void printMessage()
    {
