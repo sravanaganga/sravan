@@ -1,9 +1,10 @@
 import java.lang.*;
 
-public class First{
-  public void First()
-  {
-    System.out.println("This is the First file");
-  }
-                }
+public class First
+{
+  public void printMessage()
+   {
+     System.out.println("First file Executed");  
+   }
+}
  
